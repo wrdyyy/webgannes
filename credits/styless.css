@@ -13,3 +13,13 @@ p1 {
     font-family: sans-serif;
     font-size: 7px;
 }
+button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-family: monospace;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

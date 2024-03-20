@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0, 129, 129);
+}
+h1 {
+color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-family: monospace;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

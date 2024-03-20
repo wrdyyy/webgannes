@@ -15,3 +15,71 @@ button {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+.slopegame {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+}
+
+.slopepic {
+    height: 100px;
+    width: 100px;
+}
+
+button {
+    margin-bottom: 10px
+}
+
+.ivilol {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+}
+.ivilolpic {
+    height: 100px;
+    width: 100px;
+}
+
+.mc {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+
+}
+
+.mcpic {
+    height: 100px;
+    width: 100px;
+
+}
+
+.tzfe {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+}
+.tzfepic {
+    height: 100px;
+    width: 100px;
+}

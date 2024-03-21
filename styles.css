@@ -15,3 +15,16 @@ button {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+.hidden-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 120px;
+    height: 69px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.hidden-button:hover {
+    opacity: 1;
+}

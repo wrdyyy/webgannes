@@ -14,10 +14,12 @@ button {
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
+    
 }
 
 .flstudio {
     display: none; /* Hide the modal by default */
+    flex-direction: column; /* Stack items vertically */
     position: fixed; /* Position the modal relative to the viewport */
     top: 0;
     left: 0;
@@ -27,6 +29,7 @@ button {
     z-index: 1; /* Ensure the modal is above other content */
     justify-content: center;
     align-items: center;
+    
 }
 
 .modal-content {
@@ -37,6 +40,14 @@ button {
     width: 50%; /* Set the width of the modal content */
     max-width: 400px; /* Set maximum width if needed */ /*chatjpttttttttttttttttt*/
 }
+.modal-content button,
+.modal-content p1 {
+  display: block;
+  margin-top: 10px; /* Add some spacing between the button and the paragraph */
+  color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+}
 p {
     color: white;
     font-family: sans-serif;
@@ -45,5 +56,5 @@ p {
 p1 {
     color: white;
     font-family: sans-serif;
-    font-size: 8px;
+    font-size: 13px;
 }

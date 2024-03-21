@@ -83,3 +83,31 @@ button {
     height: 100px;
     width: 100px;
 }
+.blockparkourtwo {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+}
+.blockparkourtwopic {
+    height: 100px;
+    width: 100px;
+}
+.hangmanchallengegame {
+    background-color: rgb(26, 26, 26);
+    padding: 20px;
+    border: 3px black;
+    border-radius: 10px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: left;
+    margin-top: 30px;
+}
+.hangmanchallengepic {
+    height: 100px;
+    width: 100px;
+}
